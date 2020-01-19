@@ -1,0 +1,2 @@
++ $_POST, $_GET: Lấy qua post hoặc get
++ intval(a), floatval(a) để chuyển kiểu chuỗi của a về số nguyên, thực
