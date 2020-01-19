@@ -1,0 +1,2 @@
+Cấu trúc lập trình PHP:
+echo "Nội dung cần in thông tin";
